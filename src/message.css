@@ -1,0 +1,19 @@
+.message {
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+    border: 1px solid rebeccapurple;
+    gap: 20px;
+}
+
+.section {
+    display: flex;
+    flex-direction: column;
+    flex: 0 0 30%;
+    align-items: center;
+    justify-content: center;
+    /* height: 100%; */
+    /* border: 1px solid rgb(202, 162, 241); */
+}
